@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
@@ -10,3 +11,7 @@ Currently, two official plugins are available:
 ## Expanding the ESLint configuration
 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+=======
+SkillScape is an AI-powered educational platform developed for Samadhan 2.0 Hackathon.
+It aims to integrate Artificial Intelligence in education to provide personalized, adaptive, and skill-based learning for students.
+>>>>>>> 090096bf7f03348b87045d5f5cfe7c320b554b69
