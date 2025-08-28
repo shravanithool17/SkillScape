@@ -1,0 +1,33 @@
+.card {
+  background: white;
+  width: 300px;
+  margin: 400px;
+  padding: 50px;
+  border-radius: 12px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  display: grid;
+  place-items: center;
+  
+}
+
+.card-name {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 8px;
+  color: #2c3e50;
+}
+
+.card-title {
+  font-size: 18px;
+  font-weight: 500;
+  color: #7f8c8d;
+  margin-bottom: 12px;
+}
+
+.card-bio {
+  font-size: 14px;
+  color: #34495e;
+}
