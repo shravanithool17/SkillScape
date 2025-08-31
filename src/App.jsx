@@ -3,6 +3,7 @@ import React from "react";
 import ProfileCard from "./ProfileCard";
 import Counter from "./Counter";
 import TextPreview from "./TextPreview";
+import StudentDirectory from "./StudentDirectory";
 
 function App() {
   return (
@@ -21,6 +22,7 @@ function App() {
       <h1>Live Text Preview</h1>
       <TextPreview />
 
+      <StudentDirectory />
     </div>
   );
 }
