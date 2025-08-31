@@ -3,6 +3,7 @@ import React from "react";
 import ProfileCard from "./ProfileCard";
 import Counter from "./Counter";
 import TextPreview from "./TextPreview";
+import TodoApp from "./TodoApp";
 import StudentDirectory from "./StudentDirectory";
 
 function App() {
