@@ -23,6 +23,8 @@ function App() {
       <h1>Live Text Preview</h1>
       <TextPreview />
 
+      <TodoApp />
+
       <StudentDirectory />
     </div>
   );
