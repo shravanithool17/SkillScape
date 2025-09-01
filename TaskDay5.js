@@ -33,9 +33,9 @@ app.use(cors());
 
 // Sample students
 const students = [
-  { id: 1, name: "Shravani", age: 18, course: "Engineering" },
-  { id: 2, name: "Krishna", age: 18, course: "Engineering" },
-  { id: 3, name: "Sanskriti", age: 18, course: "Engineering" }
+  { id: 1, name: "Shravani", age: 18, course: " ComputerEngineering" },
+  { id: 2, name: "Krishna", age: 18, course: "IT Engineering" },
+  { id: 3, name: "Sanskriti", age: 18, course: "Electronics Engineering" }
 ];
 
 // API route
