@@ -26,10 +26,7 @@ function App() {
       <TextPreview />
 
       <TodoApp />
-<<<<<<< HEAD
-=======
 
->>>>>>> 20e0ecaf6719792c43db9f3e785695709f84f2e4
       <StudentDirectory />
       <ProductList />
     </div>
