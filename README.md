@@ -15,3 +15,4 @@ If you are developing a production application, we recommend using TypeScript wi
 SkillScape is an AI-powered educational platform developed for Samadhan 2.0 Hackathon.
 It aims to integrate Artificial Intelligence in education to provide personalized, adaptive, and skill-based learning for students.
 >>>>>>> 090096bf7f03348b87045d5f5cfe7c320b554b69
+https://youtu.be/agDNwBMa7X0?si=dJfJ-Ar972WF-AIL 
